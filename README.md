@@ -1,2 +1,2 @@
 # cardapio
-Api rest que retorna produtos feito com springboot + java
+Api rest que retorna e cadastra produtos, feito com springboot + java
